@@ -2,7 +2,7 @@
 console.log("working");
 
 // Create the map object with a center and zoom level.
-let map = L.map("mapid").setView([36.1733, -120.1794], 4);
+let map = L.map("mapid").setView([36.1733, -120.1794], 18);
 
 // Coordinates for each point to be used in the line.
 // Coordinates for each point to be used in the polyline.
